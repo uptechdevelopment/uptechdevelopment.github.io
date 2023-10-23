@@ -96,7 +96,8 @@ figure {
 
 .page-border > .top-border, .page-border > .right-border, .page-border > .bottom-border, .page-border > .left-border {
     padding: 11px;
-    background: #ccc;
+    /* background: #ccc; */
+    background: #1969a6;
 }
 
 .page-border .bottom-border, .page-border .top-border {
@@ -497,7 +498,9 @@ section {
 }
 
 #header nav a:hover {
-    opacity: 0.6;
+    opacity: 0.7;
+    color: #1969a6;
+    text-shadow: -2px 1px 6px rgba(0, 0, 0, 0.57);
 }
 
 /*Navigation Solid*/
@@ -793,6 +796,7 @@ h6 {
 
 #banner .section-heading:before {
     content: "";
+    background: #1969a6 !important;
     display: block;
     width: 30px;
     height: 5px;
@@ -1589,6 +1593,7 @@ blockquote {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
+    color: #1969a6;
 }
 
 .la-ball-triangle-path {

@@ -90,7 +90,8 @@ a:hover, #header.nav-solid nav a:hover {
 }
 
 .section-heading h2:after {
-    background:#d2b356;
+    /* background:#d2b356; */
+    background:#1969a6;
     content:"";
     display:block;
     width:30px;
