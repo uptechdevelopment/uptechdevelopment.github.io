@@ -145,6 +145,7 @@ body {
   font-size: 15px;
   font-weight: normal;
   color: #111;
+  background-color: #F1F6F5;
 }
 
 /* Logo, if you are using Fonts as Logo and not image
@@ -195,7 +196,7 @@ body {
   font-family: "Open Sans", sans-serif, Arial, Helvetica;
   font-size: 16px;
   font-weight: 300;
-  color: #9c9c9c;
+  color: #454545;
 }
 
 /* Testimonial */
