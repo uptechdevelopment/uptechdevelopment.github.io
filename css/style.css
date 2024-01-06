@@ -1022,9 +1022,9 @@ blockquote {
   max-height: 300px;
 }
 
-#gallery [class*="col-"] {
+/* #gallery [class*="col-"] {
   padding: 0;
-}
+} */
 
 #gallery a {
   display: inline-block;
