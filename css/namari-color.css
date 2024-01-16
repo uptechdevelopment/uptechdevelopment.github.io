@@ -38,13 +38,14 @@ a,
 
 a:hover,
 #header.nav-solid nav a:hover {
-  color: #d2b356;
+  color: #1969a6;
 }
 
 /* Default Icon Color */
 
 .icon i {
-  color: #d2b356;
+  /* color: #d2b356; */
+  color: #1969a6;
 }
 
 /* Border Color */
@@ -81,8 +82,10 @@ a:hover,
 /* Navigation Active State */
 
 #header.nav-solid .active {
-  color: #d2b356;
-  border-color: #d2b356;
+  /* color: #d2b356; */
+  color: #1969a6;
+  /* border-color: #d2b356; */
+  border-color: #1969a6;
 }
 
 /*------------------------------------------------------------------------------------------*/
@@ -177,7 +180,6 @@ body {
 }
 
 */
-
 /* Banner Typography */
 
 #banner h1 {
@@ -310,18 +312,15 @@ input[type="submit"]:hover {
 }
 
 /* Button Color */
-
 #banner .button {
   border-color: #111;
 }
 
 /* Button Hover Color */
-
 #banner .button:hover {
-  color: #d2b356;
-  border-color: #d2b356;
+  color: #1969a6;
+  border-color: #1969a6;
 }
-
 /*------------------------------------------------------------------------------------------*/
 /* 7. Footer */
 /*------------------------------------------------------------------------------------------*/

@@ -1584,7 +1584,8 @@ blockquote {
 }
 
 #scrollUp:before {
-  background: #ccc;
+  /* background: #ccc; */
+  background: #1969a6;
   font-family: "fontawesome";
   font-size: 2.4em;
   font-style: normal;
